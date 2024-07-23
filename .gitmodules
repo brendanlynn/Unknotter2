@@ -1,0 +1,3 @@
+[submodule "BrendanCUDA"]
+	path = BrendanCUDA
+	url = https://github.com/brendanlynn/BrendanCUDA.git
